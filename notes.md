@@ -1,3 +1,7 @@
+# Personal notes for explanation, widely adapted from AI's and googles, not in scope of demonstration
+
+
+
 ## Notes on the tested controls
 
 - 5.5 open (--privileged) overrides 5.2, 5.4, 5.18 and 5.22. Their settings have no effect in those rows.
