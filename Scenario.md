@@ -12,5 +12,6 @@
 |4|Other patient's personal information|Database|no|5.10 open and admin password found|
 |5|Payment records| File on server|no|5.6 open|
 |6|Staff password| File on server, accessible to admin|no|5.6 and admin|
-|7|Admin password
-|8|
+|7|Admin password|File on server, accessible to admin|no|5.6 open with root|
+|8|Backup service token|in command line of a background program running on server (a backup script started with the token as argument)|no|5.16 open|
+|9|Session token| a file in host's /dev/shm|no|5.17
